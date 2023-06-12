@@ -7,7 +7,7 @@ body{
     overflow: hidden;
 }
 .gameContainer{
-    background-image: url(img/backgroun.jpg);
+    background-image: url(backgroun.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     width: 100%;
